@@ -1,0 +1,36 @@
+{
+  "gitSyncId": "6758fcef0b221761e12f54c9_fc0e1716-9292-444b-bbb9-e66a964e03aa",
+  "id": "Home_auth",
+  "unpublishedCollection": {
+    "name": "auth",
+    "pageId": "Home",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "user_email",
+        "value": "null"
+      },
+      {
+        "name": "user_id",
+        "value": "null"
+      },
+      {
+        "name": "user_authorized_users",
+        "value": "[]"
+      },
+      {
+        "name": "user_authorized_logs",
+        "value": "[]"
+      },
+      {
+        "name": "user_authorized_logs_pivot",
+        "value": "[]"
+      },
+      {
+        "name": "user_authorized_users_partners",
+        "value": "[]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "6758fcef0b221761e12f54c9_890db2a9-80d2-45b7-bec3-22c8bf90e2a0",
+  "id": "Home_GSDB",
+  "unpublishedCollection": {
+    "name": "GSDB",
+    "pageId": "Home",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

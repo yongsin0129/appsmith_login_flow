@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "6758fcef0b221761e12f54c9_868d62fc-3bfd-4a73-b0ad-5fb85b21077a",
+  "id": "Home_filter",
+  "unpublishedCollection": {
+    "name": "filter",
+    "pageId": "Home",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "filtered_users",
+        "value": "auth.user_authorized_users"
+      },
+      {
+        "name": "filtered_logs_pivot",
+        "value": "auth.user_authorized_logs_pivot"
+      },
+      {
+        "name": "selected_user_logs",
+        "value": "[]"
+      }
+    ]
+  }
+}
