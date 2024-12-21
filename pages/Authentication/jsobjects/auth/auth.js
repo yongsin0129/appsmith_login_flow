@@ -19,7 +19,7 @@ export default {
 		navigateTo("https://xhamzhlgfrbjrrgesxaa.supabase.co/auth/v1/authorize",{
 			provider: "google",
 			redirect_to: "https://app.appsmith.com/app/login-flow/parsegoogletoken-675fb2098d54f328fbb9fa41/edit/widgets/kruql6n90x"
-		})		
+		},"NEW_WINDOW")		
 	},
 	
 	disable_all_btn(){
