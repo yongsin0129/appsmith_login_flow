@@ -29,7 +29,7 @@
       "leftColumn": 0,
       "maxDynamicHeight": 9000,
       "minDynamicHeight": 4,
-      "minHeight": 620,
+      "minHeight": 520,
       "minWidth": 450,
       "mobileBottomRow": 240,
       "mobileLeftColumn": 0,
@@ -87,5 +87,5 @@
   "version": 2,
   "widgetId": "nuad2lkbad",
   "widgetName": "Modal_user_log",
-  "width": 1026
+  "width": 1413.6
 }
