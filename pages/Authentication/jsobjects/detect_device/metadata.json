@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "6758fcef0b221761e12f54c9_90e6a265-693a-4517-8526-1e8fa9554930",
+  "id": "Authentication_detect_device",
+  "unpublishedCollection": {
+    "name": "detect_device",
+    "pageId": "Authentication",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

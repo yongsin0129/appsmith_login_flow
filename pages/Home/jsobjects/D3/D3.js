@@ -1,10 +1,12 @@
 export default {
+	
 	// 抓取資料並整理好傳入 iframe_d3
 	pass_data_to_iframe () {
 		const selectredUserID = Table_partners.selectedRow.學員ID
 		const data = this.get_users_partners (selectredUserID)
 		postWindowMessage(data, 'Iframe_d3', "*"); 
 	},
+
 
 	// 指定 userID ， 整理使用者的組織圖
 	// 這邊的功能跟 util.getAllRelatedUserIDs (userID, data)類似，但懶的改了 XD
