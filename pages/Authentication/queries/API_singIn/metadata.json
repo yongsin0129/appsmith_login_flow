@@ -40,9 +40,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "API_singIn",
     "pageId": "Authentication",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -29,10 +29,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "util.getAllRelatedUserIDs",
     "name": "getAllRelatedUserIDs",
     "pageId": "Home",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

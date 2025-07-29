@@ -82,9 +82,9 @@
         "key": "formData.where.data.children[0].value"
       }
     ],
-    "executeOnLoad": false,
     "name": "API_get_authorized_users_ptner",
     "pageId": "Home",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

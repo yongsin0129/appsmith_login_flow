@@ -79,9 +79,9 @@
         "key": "formData.where.data.children[0].value"
       }
     ],
-    "executeOnLoad": false,
     "name": "API_check_googlesheet_user",
     "pageId": "Home",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -94,9 +94,9 @@
         "key": "formData.where.data.children[0].value"
       }
     ],
-    "executeOnLoad": false,
     "name": "API_get_authorized_logs_pivot",
     "pageId": "Home",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
